@@ -1,0 +1,29 @@
+/*
+Theme Name:     E-commerce
+Description:    
+Author:         harpuneetkaurr
+Template:       twentytwentyfive
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+p{
+	font-family: "Times New Roman", Times, serif;
+}
+h1{color: #1e90ff}
+
+:root {
+  --blue: #1e90ff;
+  --white: #ffffff; 
+  --Pink: #ffe5f7;
+}
+body{
+	background-color: #e4d5b7;
+}
+
+footer{
+	color: #1e90ff;
+	background-color: #ffe5f7;
+}
